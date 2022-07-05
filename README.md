@@ -175,8 +175,8 @@ stopped. In the following the best result for validation accuracy during trainin
 
 <img src="images/loss val.jpg" alt="drawing" width="500"/>
 
-<img src="images/Acc train.jpg" alt="drawing" width="500"/>
+<img src="images/acc train.jpg" alt="drawing" width="500"/>
 
-<img src="images/Acc val.jpg" alt="drawing" width="500"/>
+<img src="images/acc val.jpg" alt="drawing" width="500"/>
 
 
